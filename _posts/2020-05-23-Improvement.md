@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ### OSS 12조 개선사항
 
