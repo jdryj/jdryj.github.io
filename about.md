@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+- Korea
+- Studying at SKKU
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Working on OSS - 12 team project
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[db366297@gmail.com](mailto:email@domain.com)
