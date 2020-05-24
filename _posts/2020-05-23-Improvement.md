@@ -10,6 +10,6 @@ _AIMPYoutube_
 - 로컬 파일에 비해 로딩시간이 오래 걸리는 이슈를 개선해야 한다.
 - 신규 사용자를 위한 플러그인 설치, 사용방법에 대한 설명서를 작성한다.
 - github에 등록된 issue를 해결해야 한다.
-![aimpru.png]({{}}/_posts/aimpru.png)
-![aimpgh.png]({{}}/_posts/aimpgh.png)
+![aimpru.png]({{site.baseurl}}/_posts/aimpru.png)
+![aimpgh.png]({{site.baseurl}}/_posts/aimpgh.png)
 - 위와 같이 타 게시판에 비해 github가 덜 활성화된 상태이다. github를 활성화하기 위해 타 게시판에서 자주 나온 질문과 도움이 될 질문을 정리하여 github issue에 등록하도록 한다.
